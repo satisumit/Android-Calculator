@@ -22,8 +22,16 @@ To run this app, you'll need Android Studio installed on your computer. Clone th
 - The app provides error messages for invalid inputs.
 
 ## Images
-<img src="https://github.com/satisumit/Calculator/blob/master/Portrait.jpg" width="2.5rem">
-<img src="https://github.com/satisumit/Calculator/blob/master/Landscape.jpg" width="2.5rem">
+<table>
+  <tr>
+    <td>
+<img src="https://github.com/satisumit/Calculator/blob/master/Portrait.jpg" height="400px">
+    </td>
+    <td>
+<img src="https://github.com/satisumit/Calculator/blob/master/Landscape.jpg" width="400px">
+    </td>
+  </tr>
+</table>
 
 ## Contributing
 
