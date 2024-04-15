@@ -21,6 +21,10 @@ To run this app, you'll need Android Studio installed on your computer. Clone th
 - Rotate your device to landscape mode to access more scientific functions conveniently.
 - The app provides error messages for invalid inputs.
 
+## Images
+![Calculator Image](https://github.com/satisumit/Calculator/blob/master/Portrait.jpg)
+![Calculator Image](https://github.com/satisumit/Calculator/blob/master/Landscape.jpg)
+
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for new features, feel free to open an issue or submit a pull request.
